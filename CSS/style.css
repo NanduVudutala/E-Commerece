@@ -1,0 +1,14 @@
+.h1 {
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+.th{
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+}
+
+.td{
+    text-align: center;
+}
